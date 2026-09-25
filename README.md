@@ -333,6 +333,7 @@
 - [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 - [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
 - [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+- [Código ao Ponto](https://codigoaoponto.com/ferramentas) - Ferramentas gratuitas e sem cadastro para devs e QAs: geradores e validadores de CPF, CNPJ, RG, CNH, PIS e placa Mercosul, JWT, hash, Base64, UUID e mais
 - [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 - [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
